@@ -14,7 +14,9 @@ By leveraging the Logistic Regression Classification technique, the model has be
 **Tech Stack:**
 
 Python.
+
 Tkinter framework.
+
 Jupyter Notebook.
 
 
@@ -24,9 +26,5 @@ Jupyter Notebook.
 
 
 
-
-
-
-This project is based on Placement prediction and its frontend is made using Tkinter. I did necessary Data Exploration, preprocessing and them trained the model using Logistic regression. then its frontend was designed using Tkinter(python GUI) and it give you answer based on your inputs that either a candidate is placed or not. 
 
 
